@@ -1,4 +1,4 @@
-# project-sudoku
+# Classification of authors
 
 ## Запус программы
 
